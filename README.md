@@ -65,18 +65,18 @@ API공통부
 {
     "Header": {
         "ApiNm": "OpenFinAccountDirect",
-        "Tsymd": "20191129",
-        "Trtm": "113604",
-        "Iscd": "900001",
+        "Tsymd": "20291129",
+        "Trtm": "171800",
+        "Iscd": "003297",
         "FintechApsno": "001",
         "ApiSvcCd": "DrawingTransferA",
-        "IsTuno": "201911290000000001",
-        "AccessToken": "6500e3a81fe2deafd996ea437b6a4b7cfbd04a3ab7e26480b431fdf3ccf3b39b"
+        "IsTuno": "202511291718000007",
+        "AccessToken": "6c52120f58e13fd033fd2f3f50b29765197f4877b26e376351c438ff5f125282"
     },
     "DrtrRgyn": "Y",
-    "BrdtBrno": "20191029",
+    "BrdtBrno": "20251129",
     "Bncd": "011",
-    "Acno": "3020000000039" 
+    "Acno": "3125821379791" 
 }
 ```
 ### 3.1.2 핀어카운트 직접발급 Request Element
